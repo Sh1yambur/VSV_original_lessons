@@ -322,21 +322,21 @@ SOLID и другие принципы ОО-дизайна
 
 ## Web и Java EE
 
-**135.** [Web и Java EE. Введение](https://github.com/KFalcon2022/lessons/blob/master/lessons/web-and-java-ee/135/Web.%20Java%20EE.%20Intruduction.md)
+**135.** [Web и Java EE. Введение](../lessons/web-and-java-ee/135/Web_Java_EE_Intruduction.md)
 
-**136.**  [HTTP. Понятия Stateful и Stateless. Запрос и ответ](https://github.com/KFalcon2022/lessons/blob/master/lessons/web-and-java-ee/136/HTTP.%20Stateful%20and%20Stateless.%20Request%20and%20Response.md)
+**136.**  [HTTP. Понятия Stateful и Stateless. Запрос и ответ](../lessons/web-and-java-ee/136/HTTP_Stateful_and_Stateless_Request_and_Response.md)
 
-**137.** [HTTP. Методы HTTP](https://github.com/KFalcon2022/lessons/blob/master/lessons/web-and-java-ee/137/HTTP%20methods.md)
+**137.** [HTTP. Методы HTTP](../lessons/web-and-java-ee/137/HTTP_methods.md)
 
-**138.** [HTTP. Cookies и понятие сессии](https://github.com/KFalcon2022/lessons/blob/master/lessons/web-and-java-ee/138/Cookies.%20Session.md)
+**138.** [HTTP. Cookies и понятие сессии](../lessons/web-and-java-ee/138/Cookies_Session.md)
 
-**139.** [HTTP-клиенты. Практика отправки запросов](https://github.com/KFalcon2022/lessons/blob/master/lessons/web-and-java-ee/139/HTTP%20clients.md)
+**139.** [HTTP-клиенты. Практика отправки запросов](../lessons/web-and-java-ee/139/HTTP_clients.md)
 
-**140.** [Серверы. Виды серверов](https://github.com/KFalcon2022/lessons/blob/master/lessons/web-and-java-ee/140/Servers.md)
+**140.** [Серверы. Виды серверов](../lessons/web-and-java-ee/140/Servers.md)
 
-**141.** [Tomcat. Установка. Альтернативы](https://github.com/KFalcon2022/lessons/blob/master/lessons/web-and-java-ee/141/Tomcat.%20Installation%20and%20alternatives.md)
+**141.** [Tomcat. Установка. Альтернативы](../lessons/web-and-java-ee/141/Tomcat_Installation_and_alternatives.md)
 
-**142.** [Servlet API. Знакомство с сервлетами](https://github.com/KFalcon2022/lessons/blob/master/lessons/web-and-java-ee/142/Servlet%20API.%20Introduction.md)
+**142.** [Servlet API. Знакомство с сервлетами](../lessons/web-and-java-ee/142/Servlet_API_Introduction.md)
 
 **143.** [Servlet API. Структура и жизненный цикл сервлетного приложения. Поиск main()](../lessons/web-and-java-ee/143/Servlet_API_Servlet_app_lifecycle.md)
 
