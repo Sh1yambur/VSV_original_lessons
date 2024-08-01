@@ -274,13 +274,13 @@ SOLID и другие принципы ОО-дизайна
 
 **119.** [Maven. Что дальше?](https://github.com/KFalcon2022/lessons/blob/master/lessons/libraries-and-build-systems/119/Maven.%20What's%20next.md)
 
-**120.** [Gradle. Первое знакомство. Сравнение с Maven](https://github.com/KFalcon2022/lessons/blob/master/lessons/libraries-and-build-systems/120/Gradle.%20Introduction.%20Comparison%20with%20Maven.md)
+**120.** [Gradle. Первое знакомство. Сравнение с Maven](../lessons/libraries-and-build-systems/120/Gradle_Introduction_Comparison_with_Maven.md)
 
-**121.** [Gradle. Жизненный цикл. Плагины и таски](https://github.com/KFalcon2022/lessons/blob/master/lessons/libraries-and-build-systems/121/Gradle.%20Lifecycle.%20Plugins%20and%20Tasks.md)
+**121.** [Gradle. Жизненный цикл. Плагины и таски](../lessons/libraries-and-build-systems/121/Gradle_Lifecycle_Plugins_and_Tasks.md)
 
-**122.** [Gradle. Работа с Зависимостями](https://github.com/KFalcon2022/lessons/blob/master/lessons/libraries-and-build-systems/122/Gradle.%20Dependencies.md)
+**122.** [Gradle. Работа с Зависимостями](../lessons/libraries-and-build-systems/122/Gradle_Dependencies.md)
 
-**123.** [Gradle. Знакомство с Gradle Wrapper. Что дальше?](https://github.com/KFalcon2022/lessons/blob/master/lessons/libraries-and-build-systems/123/Gradle%20Wrapper.%20What's%20next.md)
+**123.** [Gradle. Знакомство с Gradle Wrapper. Что дальше?](../lessons/libraries-and-build-systems/123/Gradle_Wrapper_Whats_next.md)
 
 **145.** [FasterXML Jackson. Сериализация и десериализация JSON в Java](../lessons/libraries-and-build-systems/145/FasterXML_Jackson.md)
 
@@ -288,13 +288,13 @@ SOLID и другие принципы ОО-дизайна
 
 ## Unit-тестирование
 
-**124.** [Концепция юнит-тестирования](https://github.com/KFalcon2022/lessons/blob/master/lessons/testing/124/Unit-testing%20concept.md)
+**124.** [Концепция юнит-тестирования](../lessons/testing/124/Unit-testing_concept.md)
 
-**125.** [_JUnit_](https://github.com/KFalcon2022/lessons/blob/master/lessons/testing/125/JUnit.md)
+**125.** [_JUnit_](../lessons/testing/125/JUnit.md)
 
-**126.** [Mock’и. _Mockito_](https://github.com/KFalcon2022/lessons/blob/master/lessons/testing/126/Mock%20object.%20Mockito.md)
+**126.** [Mock’и. _Mockito_](../lessons/testing/126/Mock_object_Mockito.md)
 
-**127.** [Mockito. Дополнительные функции](https://github.com/KFalcon2022/lessons/blob/master/lessons/testing/127/Mockito.%20Additional%20features.md)
+**127.** [Mockito. Дополнительные функции](../lessons/testing/127/Mockito_Additional_features.md)
 
 Дополнительно (видео): 
 
